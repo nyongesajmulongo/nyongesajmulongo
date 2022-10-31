@@ -10,7 +10,7 @@ int main(void)
 int a;
 int b;
 char c;
-int chouice;
+int choice;
 
 printf("%d:\n","Enter two intergral values\n");
 scanf("%d %d,&a, &b);
