@@ -46,7 +46,7 @@ printf("the  result of modulus is %d",c);
 break;
 
 default:
-printf("\n Invalid entry);
+printf("\n Invalid entry");
 
 }
 
